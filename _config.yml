@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shadowlayer | Malware Research
-email: your-email@example.com
+title: Shad0wlayer - Malware Research
+email: coming soon
 description: >- # this means to ignore newlines until "baseurl:"
-  Shadow Layer is a pun on the OSI model, inferring there's a "hidden" layer where the bad guys of the web roam, waiting patiently for their next successful cyber attack. The
+  Shadow Layer is a pun on the OSI model, inferring there's a "hidden" layer where threat actors are roaming, waiting patiently for their next successful cyber attack. The
   purpose of this blog is to teach and learn about malware.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "shadowlayer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: coming soon
+github_username:  shad0wlayer
 
 # Build settings
 theme: minima
