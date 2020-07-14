@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shad0wlayer - Malware Research
+title: Shadowlayer - Malware Research
 email: coming soon
 description: >- # this means to ignore newlines until "baseurl:"
   Shadow Layer is a pun on the OSI model, inferring there's a "hidden" layer where threat actors are roaming, waiting patiently for their next successful cyber attack. The
