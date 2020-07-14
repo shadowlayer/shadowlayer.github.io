@@ -6,7 +6,6 @@ permalink: /dumping-hashes-plistbuddy/
 
 # Dumping Password Hashes With PlistBuddy
 
-----
 ## What is PlistBuddy?
 
 Lets start with what a plist (Property List) is in relation to OS X.
