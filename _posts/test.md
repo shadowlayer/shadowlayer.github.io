@@ -23,7 +23,7 @@ Plistbuddy, located at `/usr/libexec/PlistBuddy`, allows you to manipulate and m
 
 ----
 
-##This Might Be Legitimate Activity...
+## This Might Be Legitimate Activity...
 Several vulnerability management and security compliance platforms will perform this activity as part of their solution. *Points at Qualys*.
 
 ----
